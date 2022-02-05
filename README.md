@@ -1,1 +1,1 @@
-# LatihanJAVA
+# LearningJAVA
